@@ -17,7 +17,7 @@
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/gmail.svg">
   </a>
     <a href="mailto:tqdien@outlook.com">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/mail.svg">
+    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/outlook.svg">
   </a>
   <a href="https://www.facebook.com/tqdien.vn">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg">
