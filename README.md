@@ -28,3 +28,6 @@
   <a href="https://www.youtube.com/channel/UC92uzcOv6ThxrD5AYhN6ktQ?sub_confirmation=1">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/youtube.svg">
   </a>
+    <a href="https://t.me/dieenx">
+    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/telegram-app.svg">
+  </a>
