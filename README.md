@@ -19,7 +19,7 @@
     <a href="mailto:tqdien@outlook.com">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/outlook.svg">
   </a>
-  <a href="https://www.facebook.com/tqdien.vn">
+  <a href="https://www.facebook.com/tqdjen">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg">
   </a>
   <a href="https://zalo.me/">
