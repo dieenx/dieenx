@@ -22,7 +22,7 @@
   <a href="https://www.facebook.com/tqdjen">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg">
   </a>
-  <a href="https://zalo.me/">
+  <a href="https://dieenx.github.io/dieenx/zalo.html">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/zalo.svg">
   </a>
   <a href="https://www.youtube.com/channel/UC92uzcOv6ThxrD5AYhN6ktQ?sub_confirmation=1">
