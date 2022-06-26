@@ -13,11 +13,8 @@
 
 
 <p align="center">
-  <a href="mailto:id.tranquangdien@gmail.com">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/gmail.svg">
-  </a>
-    <a href="mailto:tqdien@outlook.com">
-    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/outlook.svg">
+    <a href="mailto:tqdien@hotmail.com">
+    <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/mail.svg">
   </a>
   <a href="https://www.facebook.com/tqdjen">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg">
