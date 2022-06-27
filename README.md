@@ -13,7 +13,7 @@
 
 
 <p align="center">
-    <a href="mailto:tqdien@hotmail.com">
+    <a href="mailto:tqdien@outlook.com">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/mail.svg">
   </a>
   <a href="https://www.facebook.com/tqdjen">
