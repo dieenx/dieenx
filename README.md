@@ -16,7 +16,7 @@
     <a href="mailto:tqdien@outlook.com">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/mail.svg">
   </a>
-  <a href="https://www.facebook.com/tqdjen">
+  <a href="https://www.facebook.com/dieenx">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/facebook.svg">
   </a>
   <a href="https://www.youtube.com/channel/UC92uzcOv6ThxrD5AYhN6ktQ?sub_confirmation=1">
