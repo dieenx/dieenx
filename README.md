@@ -8,7 +8,6 @@
 
 - 👀 Tôi thích chi các trò chơi điện tử <img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true">
   - Liên minh huyền thoại (League of legends)
-  - Liên minh huyền thoại: tốc chiến (Wild rift)
 - 📫 Các bạn có thể liên hệ và ủng hộ với Diễn qua
 
 
